@@ -10,8 +10,10 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^3.2.6",
+    "mongoose": "^5.2.9",
     "socket.io": "~0.9.14"
   },
   "scripts": {
